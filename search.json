@@ -1,0 +1,54 @@
+{
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?query=Two+Door+Cinema+Club&type=artist&offset=0&limit=20",
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        },
+        "followers": {
+          "href": null,
+          "total": 1997830
+        },
+        "genres": [
+          "alternative dance",
+          "indie rock",
+          "indietronica",
+          "irish rock",
+          "modern alternative rock",
+          "modern rock",
+          "northern irish indie",
+          "rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+        "id": "536BYVgOnRky0xjsPT96zl",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/cf4b5c4129059163149e43ea3466557e8e05642f",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/df9bb5d891969f8b40cb8dc9cdceff8b3903f5a7",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/9c481839eb1f7848a985913885e64427b8432a10",
+            "width": 160
+          }
+        ],
+        "name": "Two Door Cinema Club",
+        "popularity": 73,
+        "type": "artist",
+        "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  }
+}
